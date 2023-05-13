@@ -1,4 +1,4 @@
-# Taiwind Dawn
+# theme-name
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=informational)](/.github/CONTRIBUTING.md)
 
