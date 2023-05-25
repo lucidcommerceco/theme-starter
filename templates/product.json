@@ -35,7 +35,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
+            "show_gift_card_recipient": true
           }
         },
         "description": {
@@ -128,7 +128,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Unexpected shapes with smart details, functionality, a new luxury feel with a contemporary price point.</p>",
+            "text": "<p>Unexpected shapes with smart details, functionality, a new luxury feel with a contemporary price point.<\/p>",
             "text_style": "body"
           }
         }
@@ -138,7 +138,6 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/imgwithtext_1070x_1070x_c8e95f55-3876-441b-a37d-e3a92b8f4884.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -159,7 +158,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>We offer free worldwide express shipping on all orders. You'll receive your order an estimated 1–4 days after shipment.</p>",
+            "text": "<p>We offer free worldwide express shipping on all orders. You'll receive your order an estimated 1–4 days after shipment.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -168,7 +167,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Exchanges are free. Try from the comfort of your home. We will collect from your home, work or an alternative address.</p>",
+            "text": "<p>Exchanges are free. Try from the comfort of your home. We will collect from your home, work or an alternative address.<\/p>",
             "link_label": "",
             "link": ""
           }
